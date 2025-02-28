@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="bai1-1"/>
+        <attribute name="authors" value="Admin"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-02-28 09:41:48 AM"/>
+        <attribute name="created" value="QWRtaW47QURNSU4tUEM7MjAyNS0wMi0yODswODoyMToyNCBBTTsyMzA5"/>
+        <attribute name="edited" value="QWRtaW47QURNSU4tUEM7MjAyNS0wMi0yODswOTo0MTo0OCBBTTs0OzI0Mjk="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="m" type="Real" array="False" size=""/>
+            <declare name="n" type="Real" array="False" size=""/>
+            <declare name="S" type="Real" array="False" size=""/>
+            <output expression="&quot;nhap canh va chieu cao tam giac&quot;" newline="True"/>
+            <input variable="m"/>
+            <input variable="n"/>
+            <assign variable="S" expression="1/2*m*n"/>
+            <output expression="&quot;Dien tich tam giac S&quot;" newline="True"/>
+            <output expression="S" newline="True"/>
+            <output expression="&quot;Tr&#7847;n V&#259;n Ti&#7871;n &#272;&#7841;t&quot;" newline="True"/>
+            <output expression="&quot;MSSV: 235752020710004&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
