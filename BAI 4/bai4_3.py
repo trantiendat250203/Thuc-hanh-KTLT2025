@@ -1,5 +1,5 @@
-S = input('nhap chuoi:')
+S = input('Nhap chuoi: ')
 for ch in S:
-    print(ch)
+    print(ch.upper())
 print("sinh vien: Tran Van Tien Dat")
 print("Mssv: 235752020710004")
